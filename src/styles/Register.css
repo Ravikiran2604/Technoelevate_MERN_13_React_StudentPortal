@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;200&display=swap');
+
+.regh1{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.regfrm
+{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px; 
+    background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1));
+}
+
+.frmc::placeholder
+{
+    color: black;
+}

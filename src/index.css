@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:url(https://cdn.pixabay.com/photo/2016/10/10/03/21/school-design-1727572__340.png);
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 
 code {

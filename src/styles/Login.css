@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;200&display=swap');
+
+.logh1
+{
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 40px;
+}
+
+.logbtn
+{
+    font-family: 'Fira Sans', sans-serif;
+    padding: 10px 20px;
+    margin-left: 720px;
+    margin-top: 90px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.logbtn:hover
+{
+    font-weight: bolder;
+    color: teal;
+    padding: 10px 20px;
+}
